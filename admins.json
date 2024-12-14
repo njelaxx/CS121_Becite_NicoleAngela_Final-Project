@@ -1,0 +1,46 @@
+[
+    {
+        "username": "james.smith",
+        "password": "P@ssw0rd123"
+    },
+    {
+        "username": "mary.johnson",
+        "password": "M4ryJ0hn$on!"
+    },
+    {
+        "username": "david.williams",
+        "password": "D@v1d!W1ll"
+    },
+    {
+        "username": "linda.brown",
+        "password": "L!ndaBr0wn22"
+    },
+    {
+        "username": "john.davis",
+        "password": "John!23Dav1s"
+    },
+    {
+        "username": "jennifer.miller",
+        "password": "J3nn!f3r@M1ll"
+    },
+    {
+        "username": "michael.moore",
+        "password": "M1ch@el_M0ore"
+    },
+    {
+        "username": "elizabeth.taylor",
+        "password": "Eliz@beth!T@ylor"
+    },
+    {
+        "username": "chris.anderson",
+        "password": "Chr!sA#nd3rson"
+    },
+    {
+        "username": "patricia.jackson",
+        "password": "P@tr1c!@J@ck5on"
+    },
+    {
+        "username":"test",
+        "password":"test"
+    }
+]
